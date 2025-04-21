@@ -182,6 +182,9 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 ```
 创建一个 [🍔] 的极简 8 位像素标志，居中放置在纯白背景上。使用有限的复古调色板，带有像素化细节、锐利边缘和干净的块状形态。该标志应简洁、具有标志性，并能在像素艺术风格中清晰识别——灵感来自经典街机游戏美学。
 ```
+```
+Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white background. Use a limited retro color palette with pixelated details, sharp edges, and clean blocky forms. The logo should be simple, iconic, and clearly recognizable in a pixel art style - inspired by classic arcade game aesthetics.
+```
 
 *注意：可替换提示词中的 `[🍔]` 为其他 Emoji 或对象。提示词翻译自英文版本，请参考原文链接*
 
